@@ -7,7 +7,7 @@ function App() {
       <span className="title">
         <Typewriter
           options={{
-            strings: ['MEDAIB GEBREHIWOT', 'Resume'],
+            strings: ['MEDAIB G', 'Resume'],
             autoStart: true,
             loop: true,
           }}
